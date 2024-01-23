@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Sorts+Mill+Goudy&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Sorts+Mill+Goudy&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +7,7 @@
 
 body {
   background: #fdf2f2;
-  font-family: "Sorts Mill Goudy", sans-serif;
+  font-family: 'Sorts Mill Goudy', sans-serif;
   min-height: 100vh;
 }
 
@@ -70,7 +70,7 @@ h4 {
 }
 
 p {
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -105,7 +105,7 @@ header nav ul li a {
 
 button {
   color: #fdf2f2;
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 1.25rem;
   font-style: normal;
   font-weight: 400;
@@ -130,7 +130,7 @@ button a {
 }
 
 .hero {
-  background: url("./assets/hero.png") no-repeat;
+  background: url('./assets/hero.png') no-repeat;
   width: 100%;
   height: 45rem;
   object-fit: cover;
@@ -168,7 +168,7 @@ button a {
 }
 .hero p {
   color: #fff;
-  font-family: "Source Serif 4";
+  font-family: 'Source Serif 4';
   font-size: 2.5rem;
   font-style: normal;
   font-weight: 400;
@@ -209,12 +209,12 @@ button a {
 }
 .introduction .intro p {
   color: #090909;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   margin-bottom: 1.5rem;
 }
 @media (max-width: 989px) {
   .introduction .intro p {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 }
 @media (max-width: 450px) {
@@ -374,16 +374,16 @@ footer .footer_wrapper .foot {
 footer .footer_wrapper .foot h6 {
   font-size: 1.25rem;
   margin-bottom: 1rem;
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 footer .footer_wrapper .foot small {
   font-size: 1rem;
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 /* About Page */
 .about {
-  background: url("./assets/hero2.png") no-repeat;
+  background: url('./assets/hero2.png') no-repeat;
   height: 18rem;
   width: 100%;
   object-fit: cover;
@@ -456,7 +456,7 @@ footer .footer_wrapper .foot small {
   border: 1px solid #828282;
   background: #f9f9f9;
   color: #090909;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
@@ -488,7 +488,7 @@ footer .footer_wrapper .foot small {
   border: 1px solid #828282;
   background: #f9f9f9;
   color: #090909;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
@@ -511,7 +511,7 @@ footer .footer_wrapper .foot small {
   border: 1px solid #828282;
   background: #f9f9f9;
   color: #090909;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
